@@ -1,0 +1,3 @@
+[submodule "Yaffs2_Dev_Learn"]
+	path = Yaffs2_Dev_Learn
+	url = git@github.com:sunshinemyson/Yaffs2_Dev_Learn.git
